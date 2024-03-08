@@ -28,5 +28,3 @@ You're building a delivery management system for a restaurant chain. The system 
 
 - The client code interacts only with the `Delivery` interface, making it easier to add new delivery types in the future without modifying existing code.
 - The factory encapsulates the logic for creating different delivery objects, promoting better organization and maintainability.
-
-This implementation demonstrates the factory design pattern in Python, providing a clear structure for creating and managing different delivery objects based on real-world requirements.
