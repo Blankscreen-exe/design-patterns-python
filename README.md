@@ -1,2 +1,3 @@
-# design-patterns-python
-Design patterns implemented and explained in Python. This is a learning based repository.
+# Design Patterns In Python
+
+Implementation of various design patterns in python programming language.
